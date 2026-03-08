@@ -23,6 +23,9 @@ The system:
 
 The system is tested using the **20 Newsgroups Dataset**, which contains **20,000 discussion posts across 20 different topics**.
 
+<img width="1884" height="1013" alt="Screenshot 2026-03-07 005835" src="https://github.com/user-attachments/assets/26563ac1-53a2-4375-971c-2ace50c3656c" />
+
+
 ---
 
 # Key Features
